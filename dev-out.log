@@ -1,0 +1,28 @@
+
+> mern-assignment-frontend@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m320[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m2:25:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx, /src/index.css, /src/pages/RegisterPage.jsx, /src/pages/ForgotPasswordPage.jsx, /src/pages/ResetPasswordPage.jsx, /src/pages/UsersListPage.jsx, /src/pages/VerifyEmailPage.jsx, /src/pages/UserProfilePage.jsx, /src/pages/LoginPage.jsx, /src/pages/MyProfilePage.jsx[22m
+[2m2:25:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/UserProfilePage.jsx, /src/index.css[22m
+[2m2:25:23 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyProfilePage.jsx, /src/index.css[22m
+[2m2:56:37 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/UserCard.jsx, /src/index.css[22m
+[2m2:56:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/UserCard.jsx, /src/index.css[22m
+[2m2:56:53 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/UsersListPage.jsx, /src/index.css[22m
+[2m2:56:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/UsersListPage.jsx, /src/index.css[22m
+[2m2:57:10 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m2:57:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m2:57:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Navbar.jsx, /src/index.css[22m
+[2m3:19:17 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/context/AuthContext.jsx, /src/index.css, /src/pages/RegisterPage.jsx, /src/pages/ForgotPasswordPage.jsx, /src/pages/ResetPasswordPage.jsx, /src/pages/VerifyEmailPage.jsx[22m
+[2m3:19:17 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/context/AuthContext.jsx[22m Could not Fast Refresh ("AuthContext" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m3:19:17 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/context/AuthContext.jsx[22m
+[2m3:19:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m3:19:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.jsx, /src/index.css[22m
+[2m3:19:54 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx, /src/index.css[22m
+[2m3:24:38 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.jsx, /src/index.css[22m
+[2m3:30:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.jsx, /src/index.css[22m
+[2m3:40:25 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
